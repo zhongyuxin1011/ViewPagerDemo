@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="title">
+        <item>Android Studio 1</item>
+        <item>Android Studio 2</item>
+        <item>Android Studio 3</item>
+        <item>Android Studio 4</item>
+        <item>Android Studio 5</item>
+    </string-array>
+</resources>
